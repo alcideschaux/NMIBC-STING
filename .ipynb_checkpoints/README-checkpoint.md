@@ -11,3 +11,4 @@ Including all cases, with and without BCG treatment:
 
 ## Patients with BCG treatment
 - [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/BCG-01-DESCRIPTIVE.ipynb): clinicopathologic and outcome features, marker expression (STING, cGAS, pIRF3, PD-L1, FOXP3, CD8, CD8-Ki67)
+- [Outcome analysis](https://github.com/alcideschaux/NMIBC-STING/blob/master/EDA-04-OUTCOME.ipynb): marker expression by tumor recurrence and tumor progression (grade and stage), at next biopsy and at any biopsy, in patients who received BCG treatment
