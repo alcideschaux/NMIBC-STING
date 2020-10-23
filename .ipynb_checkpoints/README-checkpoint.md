@@ -14,7 +14,8 @@ Including all cases, with and without BCG treatment:
 - [Outcome analysis](https://github.com/alcideschaux/NMIBC-STING/blob/master/BCG-02-OUTCOME.ipynb): marker expression by tumor recurrence and tumor progression (grade and stage), at next biopsy and at any biopsy, in patients who received BCG treatment.
 
 ## Naïve-treatment cases
-- [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/TURB.ipynb): marker expression in patients who had not received yet therapy (TURB = 0).
+- [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/TURB-01-DESCRIPTIVE.ipynb): marker expression in patients who had not received yet therapy (TURB = 0).
+- [Outcome analysis](https://github.com/alcideschaux/NMIBC-STING/blob/master/TURB-02-OUTC.ipynb): marker expression by stage, grade, tumor recurrence and tumor progression (grade and stage), at next biopsy and at any biopsy, who had not received yet therapy (TURB = 0).
 
 ## Cases treated with mitomycin and BCG
-- [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/TURB.ipynb): marker expression in patients who had received mitomycin therapy by BCG treatment.
+- [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/MMC.ipynb): marker expression in patients who had received mitomycin therapy by BCG treatment.
