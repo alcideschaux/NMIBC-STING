@@ -17,4 +17,4 @@ Including all cases, with and without BCG treatment:
 - [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/TURB.ipynb): marker expression in patients who had not received yet therapy (TURB = 0).
 
 ## Cases treated with mitomycin and BCG
-- [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/TURB.ipynb): marker expression in patients who had received mitomycin therapy by BCG treatment.
+- [Descriptive statistics](https://github.com/alcideschaux/NMIBC-STING/blob/master/MMC.ipynb): marker expression in patients who had received mitomycin therapy by BCG treatment.
